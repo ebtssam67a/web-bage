@@ -1,0 +1,28 @@
+
+html{font-family: 'Roboto', sans-serif;opacity: 0.9;}
+body {background: url('../img/2.jpg') no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;;background-size:cover;color:white;}
+.l-top{margin-top:37px;width: 50%;float:left;font-size:11px; font-weight:700; letter-spacing:1px}	
+.top-icon{width: 22px;}
+.r-top{margin-top:37px; float:right;padding-left:421px;}	
+.login{ text-align: center;font-weight: 700;font-size: 10px;border: 2px solid;border-radius: 12px;width: 133px;padding: 5px;padding-left:13px;    padding-right: 13px;}
+.line{margin-top:10px; border-bottom:1px solid #f2f2f2; opacity: 0.5;width: 98%;}
+.Navbar{margin-top: 27px;}
+a{color:white; opacity: 0.9;}
+.webname{font-size: 40px;margin-right: 100px;}
+.Navbar-nav{font-weight:700;font-size:12px}
+.FA{width: 8px;font-size: 17px;}
+.Navbar-nav > li > a:hover{background:none;}
+.navbar-right > li > a:hover{background:none;}
+.subtitle{font-size:16px;font-weight:700;text-align:center; margin-top:202px;}
+.title{text-align:center; font-size:40px;font-family: 'Roboto', sans-serif;color: rgba(255,255,255,0.99);}
+.note{text-align:center;}
+.B2,.B1{;border-radius:33px;width:17%;position:center;padding:9px;margin: 4px;text-align: center;margin-top:36px;font-size:11px;font-weight:400;}
+.B1{border: 2px solid; margin-left:370px;background-color:rgba(0,0,0,0.5);}
+.B1:hover {
+  background-color: yellow;
+}
+.B2{background-color:rgb(52,151,217);border: 2px solid #3497d9}
